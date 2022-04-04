@@ -1,4 +1,4 @@
-# selenium-iNews
+# Selenium-Java-iNews
 
 Tes ini memakai POM, assert equals, true, false, 
 runing case anda bisa menuju ke file Berita-> src/main/java-> iNews.Berita-> TestcasePOM
